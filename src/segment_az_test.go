@@ -107,13 +107,6 @@ func TestAzSegment(t *testing.T) {
 			CLIEnvironmentname: "foo",
 			CLISubscriptionID:  "bar",
 		},
-		{
-			Case:               "update needed",
-			ExpectedEnabled:    true,
-			ExpectedString:     updateMessage,
-			CLIExists:          true,
-			CLIEnvironmentname: "Do you want to continue? (Y/n): Visual Studio Enterprise",
-		},
 	}
 
 	for _, tc := range cases {

@@ -1,0 +1,16 @@
+{
+  "installationId": "8d2919ac-a393-11eb-9100-acde48001122",
+  "subscriptions": [
+    {
+      "id": "1a35fefc-5420-43e4-badc-4b21a960f537",
+      "name": "Visual Studio Enterprise Subscription",
+      "state": "Enabled",
+      "user": { "name": "jan.de.dobbeleer@gmail.com", "type": "user" },
+      "isDefault": true,
+      "tenantId": "8d934305-ac9f-46fe-b0e7-50fd32ad2acf",
+      "environmentName": "AzureCloud",
+      "homeTenantId": "8d934305-ac9f-46fe-b0e7-50fd32ad2acf",
+      "managedByTenants": []
+    }
+  ]
+}
